@@ -63,5 +63,70 @@
     "price": 100,
     "questRequirements": [],
     "achievementRequirements": []
+  },
+  {
+    "type": "top",
+    "suiteId": "69219a91316c8dabd6adb732",
+    "outfitId": "69219a93b98f83d0d5f6872c",
+    "topId": "69219a96de98080abf123ca1",
+    "handsId": "69219a98cfa05f281657873f",
+    "side": [
+      "usec"
+    ],
+    "locales": {
+      "en": {
+        "name": "USEC Legionnaire (Olive Drab)",
+        "description": "Combat Top"
+      }
+    },
+    "topBundlePath": "backported_assets/assets/content/characters/character/prefabs/top_usec_clawgear_olive_drab.bundle",
+    "handsBundlePath": "backported_assets/assets/content/hands/hands_usec_clawgear/hands_usec_clawgear_olive_drab.skin.bundle",
+    "traderId": "RAGMAN",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0.00,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 100,
+    "watchPrefab": {
+      "path": "",
+      "rcid": ""
+    },
+    "watchPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "watchRotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "skillRequirements": [],
+    "questRequirements": [],
+    "achievementRequirements": []
+  },
+  {
+    "type": "bottom",
+    "suiteId": "69219a9c4fc8dc375128d008",
+    "outfitId": "69219a9e216fdba3dc9eb624",
+    "bottomId": "69219aa10ef0ce9fe61fbc9c",
+    "side": [
+      "usec"
+    ],
+    "locales": {
+      "en": {
+        "name": "USEC Legionnaire (MC)",
+        "description": "Combat Pants"
+      }
+    },
+    "bottomBundlePath": "backported_assets/assets/content/characters/character/prefabs/pants_usec_raider_multicam.bundle",
+    "traderId": "RAGMAN",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 100,
+    "questRequirements": [],
+    "achievementRequirements": []
   }
 ]

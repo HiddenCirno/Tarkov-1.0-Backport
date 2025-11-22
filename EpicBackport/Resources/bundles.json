@@ -2456,6 +2456,32 @@
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
+    },
+    {
+      "key": "backported_assets/assets/content/characters/character/prefabs/top_usec_clawgear_olive_drab.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/hands/hands_usec_clawgear/hands_usec_clawgear_olive_drab.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "backported_assets/assets/content/hands/bear/bear_hands_watch_textures.bundle",
+        "backported_assets/assets/content/hands/bear/bear_watch.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "backported_assets/assets/content/characters/character/prefabs/pants_usec_raider_multicam.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
     }
   ]
 }
