@@ -5,7 +5,6 @@
     "outfitId": "69218615ae04a9018ee7cf7e",
     "topId": "69218616df2b18744be7cf7f",
     "handsId": "692186160980041b81e7cf80",
-    "bottomId": null,
     "side": [
       "bear"
     ],
@@ -22,7 +21,7 @@
     "profileLevel": 1,
     "standing": 0.00,
     "currencyId": "MONEY_ROUBLES",
-    "price": 0,
+    "price": 100,
     "watchPrefab": {
       "path": "",
       "rcid": ""
@@ -60,8 +59,8 @@
     "loyaltyLevel": 1,
     "profileLevel": 1,
     "standing": 0,
-    "currencyId": "RAGMAN",
-    "price": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 100,
     "questRequirements": [],
     "achievementRequirements": []
   }

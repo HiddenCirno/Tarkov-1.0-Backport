@@ -2432,23 +2432,6 @@
       ]
     },
     {
-      "key": "backported_assets/assets/content/hands/bear/bear_hands_watch_textures.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
-      "key": "backported_assets/assets/content/hands/bear/bear_watch.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "cubemaps",
-        "backported_assets/assets/content/hands/bear/bear_hands_watch_textures.bundle",
-        "assets/commonassets/physics/physicsmaterials.bundle"
-      ]
-    },
-    {
       "key": "backported_assets/assets/content/characters/character/prefabs/top_bear_sumrak_reverse_side.bundle",
       "dependencyKeys": [
         "shaders",
