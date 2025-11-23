@@ -19,7 +19,7 @@
       "Slots": [
         {
           "_name": "mod_magazine",
-          "_id": "691e390aa08b741f14ac74d6",
+          "_id": "69222944df18f6efd77e1660",
           "_parent": "691e382224b7b68629ac74d5",
           "_props": {
             "filters": [
@@ -48,7 +48,7 @@
         },
         {
           "_name": "mod_charge",
-          "_id": "691e391546e6b53af1ac74d7",
+          "_id": "69222941ce10c596467e165f",
           "_parent": "691e382224b7b68629ac74d5",
           "_props": {
             "filters": [
@@ -66,7 +66,7 @@
         },
         {
           "_name": "mod_reciever",
-          "_id": "691e72f6b9395002dccceef8",
+          "_id": "6922293fb3df65388e7e165e",
           "_parent": "691e382224b7b68629ac74d5",
           "_props": {
             "filters": [
@@ -84,7 +84,7 @@
         },
         {
           "_name": "mod_stock_000",
-          "_id": "691e3962870e7b206dac74d9",
+          "_id": "6922293e10a6e8588a7e165d",
           "_parent": "691e382224b7b68629ac74d5",
           "_props": {
             "filters": [
@@ -116,7 +116,7 @@
         },
         {
           "_name": "mod_pistol_grip",
-          "_id": "691e640e10e739e3becceef7",
+          "_id": "6922293c057ee1f4d27e165c",
           "_parent": "691e382224b7b68629ac74d5",
           "_props": {
             "filters": [
@@ -165,7 +165,7 @@
       "Chambers": [
         {
           "_name": "patron_in_weapon",
-          "_id": "5bfea6e90db834001b7347f8",
+          "_id": "6922293aae791dfbe37e165b",
           "_parent": "691e382224b7b68629ac74d5",
           "_props": {
             "filters": [
@@ -492,14 +492,15 @@
         "path": "backported_assets/assets/content/items/mods/barrels/barrel_nl545_cgnl_di_415mm_545x39.bundle",
         "rcid": ""
       },
-      "Ergonomics": 5,
-      "Width": 2,
+      "Ergonomics": -16.5,
+      "Width": 3,
       "Height": 1,
-      "Recoil": -2,
+      "Recoil": -5,
       "DurabilityBurnModificator": 0.98,
       "HeatFactor": 0.97,
       "CoolFactor": 0.98,
       "ExtraSizeLeft": 3,
+      "Velocity": -4.6,
       "Weight": 0.780,
       "Slots": [
         {
@@ -580,7 +581,7 @@
     "locales": {
       "en": {
         "name": "NL545 (DI) 5.45x39 16.3 inch barrel",
-        "shortName": "NL545 DI",
+        "shortName": "NL545 DI 16.3\"",
         "description": "A 16.3 inch (415mm) 5.45x39mm barrel for the direct impingement NL545 assault rifle manufactured by Custom Guns."
       }
     },
