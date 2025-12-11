@@ -1,6 +1,6 @@
 {
   "68c2a99647eb77c6310b170f": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
     "parentId": "56ea9461d2720b67698b456f",
     "handbookParentId": "5b5f760586f774093e6cb509",
     "overrideProperties": {
@@ -101,7 +101,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 38092,
     "handbookPriceRoubles": 5400,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -124,7 +124,7 @@
     "traders": {}
   },
   "68caac02269e10396503acfa": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
     "parentId": "56ea9461d2720b67698b456f",
     "handbookParentId": "5b5f760586f774093e6cb509",
     "overrideProperties": {
@@ -229,8 +229,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_gas_block"
+    ],
     "fleaPriceRoubles": 27833,
     "handbookPriceRoubles": 7800,
     "addtoBots": false,
@@ -254,7 +256,7 @@
     "traders": {}
   },
   "68124640c5fd00ec0a01a237": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
     "parentId": "56ea9461d2720b67698b456f",
     "handbookParentId": "5b5f760586f774093e6cb509",
     "overrideProperties": {
@@ -378,7 +380,7 @@
     "traders": {}
   },
   "68aee9e31ef0d507780a61cd": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
     "parentId": "56ea9461d2720b67698b456f",
     "handbookParentId": "5b5f760586f774093e6cb509",
     "overrideProperties": {
@@ -502,7 +504,7 @@
     "traders": {}
   },
   "68c16f6883e2d814b0093f7a": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "56eabcd4d2720b66698b4574",
     "parentId": "56ea9461d2720b67698b456f",
     "handbookParentId": "5b5f760586f774093e6cb509",
     "overrideProperties": {
@@ -601,8 +603,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_gas_block"
+    ],
     "fleaPriceRoubles": 26666,
     "handbookPriceRoubles": 6600,
     "addtoBots": false,
