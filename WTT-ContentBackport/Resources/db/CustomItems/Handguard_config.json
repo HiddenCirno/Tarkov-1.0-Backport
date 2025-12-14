@@ -9,7 +9,14 @@
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
       "ConflictingItems": [
-        "55d35ee94bdc2d61338b4568"
+        "6357c98711fb55120211f7e1",
+        "55d35ee94bdc2d61338b4568",
+        "5d440b93a4b9364276578d4b",
+        "5c0e2f94d174af029f650d56",
+        "5d440b9fa4b93601354d480c",
+        "55d3632e4bdc2d972f8b4569",
+        "63d3d44a2a49307baf09386d",
+        "63d3ce0446bd475bcb50f55f"
       ],
       "Description": "handguard_ar15_kac_m5_ras",
       "DiscardLimit": -1,
@@ -303,7 +310,16 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1",
+        "55d35ee94bdc2d61338b4568",
+        "5d440b93a4b9364276578d4b",
+        "5c0e2f94d174af029f650d56",
+        "5d440b9fa4b93601354d480c",
+        "55d3632e4bdc2d972f8b4569",
+        "63d3d44a2a49307baf09386d",
+        "63d3ce0446bd475bcb50f55f"
+      ],
       "Description": "handguard_ar15_colt_m16a1_std",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -409,7 +425,16 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1",
+        "55d35ee94bdc2d61338b4568",
+        "5d440b93a4b9364276578d4b",
+        "5c0e2f94d174af029f650d56",
+        "5d440b9fa4b93601354d480c",
+        "55d3632e4bdc2d972f8b4569",
+        "63d3d44a2a49307baf09386d",
+        "63d3ce0446bd475bcb50f55f"
+      ],
       "Description": "handguard_ar15_colt_m16a2_std",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -769,7 +794,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
       "Description": "handguard_ar15_kac_m5_ras_lower",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -2063,10 +2090,8 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
-    "modSlot": [
-      "mod_handguard"
-    ],
+    "addtoModSlots": false,
+    "modSlot": [],
     "fleaPriceRoubles": 21894,
     "handbookPriceRoubles": 2849,
     "addtoBots": false,
@@ -2315,7 +2340,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 7200,
     "handbookPriceRoubles": 13845,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -2346,7 +2371,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
       "Description": "handguard_ar15_colt_m16a2_std_lower",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -3195,7 +3222,8 @@
         "5a34fbadc4a28200741e230a",
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
-        "55d35ee94bdc2d61338b4568"
+        "55d35ee94bdc2d61338b4568",
+        "6357c98711fb55120211f7e1"
       ],
       "Description": "handguard_ar15_cgnl_ar15_105_inch",
       "DiscardLimit": -1,
@@ -3977,7 +4005,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
       "Description": "handguard_ar15_colt_car15_skinny_lower",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -4217,8 +4247,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 1107,
     "handbookPriceRoubles": 1623,
     "addtoBots": false,
@@ -4941,7 +4973,12 @@
         "5a34fbadc4a28200741e230a",
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
-        "55d35ee94bdc2d61338b4568"
+        "55d35ee94bdc2d61338b4568",
+        "6357c98711fb55120211f7e1",
+        "603372f153a60014f970616d",
+        "603372d154072b51b239f9e1",
+        "603372b4da11d6478d5a07ff",
+        "63d3ce0446bd475bcb50f55f"
       ],
       "Description": "handguard_ar15_cgnl_ar15_14_inch",
       "DiscardLimit": -1,
@@ -5477,7 +5514,8 @@
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
         "68a86bd51d1284a8e20e39d5",
-        "68caac02269e10396503acfa"
+        "68caac02269e10396503acfa",
+        "6357c98711fb55120211f7e1"
       ],
       "Description": "handguard_ar15_strike_industries_gridlok_15_inch_m_lok",
       "DiscardLimit": -1,
@@ -5658,10 +5696,8 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": true,
-    "modSlot": [
-      "mod_handguard"
-    ],
+    "addtoModSlots": false,
+    "modSlot": [],
     "fleaPriceRoubles": 21927,
     "handbookPriceRoubles": 17845,
     "addtoBots": false,
@@ -5693,7 +5729,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": true,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
       "Description": "handguard_ar15_strike_industries_gridlok_base_yellow",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -5823,9 +5861,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 8500,
     "handbookPriceRoubles": 7845,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -5848,7 +5888,7 @@
     "traders": {}
   },
   "68120dcbb90552f01004e5ca": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5fbc227aa56d053a3543f79e",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -6066,8 +6106,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 21601,
     "handbookPriceRoubles": 9500,
     "addtoBots": false,
@@ -6091,7 +6133,7 @@
     "traders": {}
   },
   "6810d3d8dc7bbeec2f0081c9": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -6227,8 +6269,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 21571,
     "handbookPriceRoubles": 6900,
     "addtoBots": false,
@@ -6252,7 +6296,7 @@
     "traders": {}
   },
   "6895bd19d55f0ebf6a0c0306": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "619b5db699fb192e7430664f",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -6267,7 +6311,8 @@
         "55d35ee94bdc2d61338b4568",
         "55d3632e4bdc2d972f8b4569",
         "63d3ce0446bd475bcb50f55f",
-        "68a86bd51d1284a8e20e39d5"
+        "68a86bd51d1284a8e20e39d5",
+        "6357c98711fb55120211f7e1"
       ],
       "Description": "handguard_ar15_radian_model1_m_lok_14_inch",
       "DiscardLimit": -1,
@@ -6519,8 +6564,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 150000,
     "handbookPriceRoubles": 22900,
     "addtoBots": false,
@@ -6544,7 +6591,7 @@
     "traders": {}
   },
   "68305fdc84a12bb973021fc0": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "6513f05a94c72326990a3866",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -6833,8 +6880,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 39999,
     "handbookPriceRoubles": 6800,
     "addtoBots": false,
@@ -6858,7 +6907,7 @@
     "traders": {}
   },
   "68a5dc0c2cd64a8b58023b87": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -6866,7 +6915,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": true,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
       "Description": "handguard_ar15_strike_industries_gridlok_base_blk",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -6996,9 +7047,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 9420,
     "handbookPriceRoubles": 7845,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -7021,7 +7074,7 @@
     "traders": {}
   },
   "68a6fbfdd31595bb360c73bd": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -7039,7 +7092,8 @@
         "56ea8d2fd2720b7c698b4570",
         "68a86bd51d1284a8e20e39d5",
         "68caabc3f42a4476cf0be2a6",
-        "68caac02269e10396503acfa"
+        "68caac02269e10396503acfa",
+        "6357c98711fb55120211f7e1"
       ],
       "Description": "handguard_ar15_strike_industries_gridlok_17_inch_m_lok",
       "DiscardLimit": -1,
@@ -7220,7 +7274,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 24520,
     "handbookPriceRoubles": 19645,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -7243,7 +7297,7 @@
     "traders": {}
   },
   "688b79b5eb234c75d900e050": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "644675573d52156624001fc9",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -7427,8 +7481,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 40713,
     "handbookPriceRoubles": 7325,
     "addtoBots": false,
@@ -7452,7 +7508,7 @@
     "traders": {}
   },
   "68caac360bfe742288085e16": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2cfa535acfc432ff4db7a0",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -7464,7 +7520,10 @@
         "5a34fbadc4a28200741e230a",
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
-        "55d35ee94bdc2d61338b4568"
+        "55d35ee94bdc2d61338b4568",
+        "603372d154072b51b239f9e1",
+        "6357c98711fb55120211f7e1",
+        "603372b4da11d6478d5a07ff"
       ],
       "Description": "handguard_ar15_kac_rifle_lenght_free_float_ras_12_inch",
       "DiscardLimit": -1,
@@ -7799,8 +7858,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 39383,
     "handbookPriceRoubles": 12180,
     "addtoBots": false,
@@ -7824,7 +7885,7 @@
     "traders": {}
   },
   "67c5429fac40c364490664f8": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2cfa535acfc432ff4db7a0",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -8040,7 +8101,7 @@
     "traders": {}
   },
   "67c542baac40c36449066500": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2cfa535acfc432ff4db7a0",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -8282,7 +8343,7 @@
     "traders": {}
   },
   "6812180dc20f5c52bc04d6cc": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5fbc227aa56d053a3543f79e",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -8500,8 +8561,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 41300,
     "handbookPriceRoubles": 10200,
     "addtoBots": false,
@@ -8525,7 +8588,7 @@
     "traders": {}
   },
   "68a5dc4eed35a7eac1048ff6": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -8541,7 +8604,8 @@
         "5dfa397fb11454561e39246c",
         "5d440b93a4b9364276578d4b",
         "5d440b9fa4b93601354d480c",
-        "63d3d44a2a49307baf09386d"
+        "63d3d44a2a49307baf09386d",
+        "6357c98711fb55120211f7e1"
       ],
       "Description": "handguard_ar15_strike_industries_gridlok_8_5_inch_m_lok",
       "DiscardLimit": -1,
@@ -8696,7 +8760,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 26000,
     "handbookPriceRoubles": 13925,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -8719,7 +8783,7 @@
     "traders": {}
   },
   "68109a1f327033533604170a": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -8982,8 +9046,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 65615,
     "handbookPriceRoubles": 16900,
     "addtoBots": false,
@@ -9007,7 +9073,7 @@
     "traders": {}
   },
   "680f55b71e275ac1230f2dc6": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -9242,8 +9308,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 65478,
     "handbookPriceRoubles": 18900,
     "addtoBots": false,
@@ -9267,7 +9335,7 @@
     "traders": {}
   },
   "67ff24c0abb53266190dfc66": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -9483,7 +9551,7 @@
     "traders": {}
   },
   "681236df5cbf0518e00557a0": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5fbc227aa56d053a3543f79e",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -9722,8 +9790,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 28862,
     "handbookPriceRoubles": 11400,
     "addtoBots": false,
@@ -9747,7 +9817,7 @@
     "traders": {}
   },
   "6810aa1474bf67765c02e91a": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -9965,8 +10035,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 124536,
     "handbookPriceRoubles": 14600,
     "addtoBots": false,
@@ -9990,7 +10062,7 @@
     "traders": {}
   },
   "68caac28f42a4476cf0be2ac": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2cfa535acfc432ff4db7a0",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -10003,7 +10075,10 @@
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
         "55d35ee94bdc2d61338b4568",
-        "68a86bd51d1284a8e20e39d5"
+        "68a86bd51d1284a8e20e39d5",
+        "6357c98711fb55120211f7e1",
+        "603372d154072b51b239f9e1",
+        "603372b4da11d6478d5a07ff"
       ],
       "Description": "handguard_ar15_precision_reflex_carbon_round_gen_3_12_inch",
       "DiscardLimit": -1,
@@ -10294,8 +10369,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 37999,
     "handbookPriceRoubles": 12800,
     "addtoBots": false,
@@ -10319,7 +10396,7 @@
     "traders": {}
   },
   "680f47b20407db2e550c4311": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -10578,8 +10655,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 37535,
     "handbookPriceRoubles": 20800,
     "addtoBots": false,
@@ -10603,7 +10682,7 @@
     "traders": {}
   },
   "68d5676f43adc7372a0c8ae0": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5e56991336989c75ab4f03f6",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -10942,7 +11021,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 22000,
     "handbookPriceRoubles": 17814,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -10965,7 +11044,7 @@
     "traders": {}
   },
   "68cc2ae66e59cb54f4054f47": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5b2cfa535acfc432ff4db7a0",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -10978,7 +11057,8 @@
         "5ae30e795acfc408fb139a0b",
         "56ea8d2fd2720b7c698b4570",
         "55d35ee94bdc2d61338b4568",
-        "68a86bd51d1284a8e20e39d5"
+        "68a86bd51d1284a8e20e39d5",
+        "6357c98711fb55120211f7e1"
       ],
       "Description": "handguard_ar15_precision_reflex_carbon_round_gen_3_12_inch_fde",
       "DiscardLimit": -1,
@@ -11269,8 +11349,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 31985,
     "handbookPriceRoubles": 12800,
     "addtoBots": false,
@@ -11294,7 +11376,7 @@
     "traders": {}
   },
   "68aee9fe130c00663d08aeb6": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5e56991336989c75ab4f03f6",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -11632,7 +11714,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 69420,
     "handbookPriceRoubles": 17814,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -11655,7 +11737,7 @@
     "traders": {}
   },
   "680f5953b93ecb502102816a": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -11890,8 +11972,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 41906,
     "handbookPriceRoubles": 18900,
     "addtoBots": false,
@@ -11915,7 +11999,7 @@
     "traders": {}
   },
   "67ff279dea587611b008095d": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -12157,7 +12241,7 @@
     "traders": {}
   },
   "68a6f3b27279296357007cd7": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -12168,7 +12252,8 @@
       "ConflictingItems": [
         "5d440b9fa4b93601354d480c",
         "55d35ee94bdc2d61338b4568",
-        "68a63ac58e1fe612970728f2"
+        "68a63ac58e1fe612970728f2",
+        "6357c98711fb55120211f7e1"
       ],
       "Description": "handguard_ar15_strike_industries_gridlok_11_inch_m_lok",
       "DiscardLimit": -1,
@@ -12351,7 +12436,7 @@
     "addtoInventorySlots": [],
     "addtoModSlots": false,
     "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "fleaPriceRoubles": 15000,
     "handbookPriceRoubles": 14845,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -12374,7 +12459,7 @@
     "traders": {}
   },
   "68a7000d7708ac5120060527": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5ea16ada09aa976f2e7a51be",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -12382,7 +12467,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": true,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "6357c98711fb55120211f7e1"
+      ],
       "Description": "handguard_ar15_strike_industries_gridlok_base_red",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -12512,9 +12599,11 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
-    "fleaPriceRoubles": 0,
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
+    "fleaPriceRoubles": 9200,
     "handbookPriceRoubles": 7845,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -12537,7 +12626,7 @@
     "traders": {}
   },
   "67ff24b9079850d544096ea6": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "6357c98711fb55120211f7e1",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -12753,7 +12842,7 @@
     "traders": {}
   },
   "680f55788692125dc00a3354": {
-    "itemTplToClone": "SETME",
+    "itemTplToClone": "5c48a14f2e2216152006edd7",
     "parentId": "55818a104bdc2db9688b4569",
     "handbookParentId": "5b5f75e486f77447ec5d7712",
     "overrideProperties": {
@@ -13012,8 +13101,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_handguard"
+    ],
     "fleaPriceRoubles": 57367,
     "handbookPriceRoubles": 20800,
     "addtoBots": false,
