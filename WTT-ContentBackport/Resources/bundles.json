@@ -1,14 +1,6 @@
 {
     "manifest": [
         {
-            "key": "assets/content/weapons/mxlr/textures/client_assets.bundle",
-            "dependencyKeys": []
-        },
-        {
-            "key": "assets/content/weapons/svdk/textures/client_assets.bundle",
-            "dependencyKeys": []
-        },
-        {
             "key": "assets/content/audio/phrases/bear_05_nikita_voice.bundle",
             "dependencyKeys": []
         },
@@ -502,6 +494,13 @@
             ]
         },
         {
+            "key": "assets/content/characters/character/prefabs/pants_bear_sso.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/characters/character/prefabs/pants_bear_sumrak_emr.bundle",
             "dependencyKeys": [
                 "cubemaps",
@@ -545,6 +544,13 @@
         },
         {
             "key": "assets/content/characters/character/prefabs/pants_ruaf_solider_2.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/characters/character/prefabs/pants_usec_crusader.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders"
@@ -697,6 +703,13 @@
             ]
         },
         {
+            "key": "assets/content/characters/character/prefabs/top_bear_sso.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/characters/character/prefabs/top_bear_sumrak_reverse_side.bundle",
             "dependencyKeys": [
                 "cubemaps",
@@ -789,6 +802,13 @@
         },
         {
             "key": "assets/content/characters/character/prefabs/top_usec_clawgear_olive_drab.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/characters/character/prefabs/top_usec_crusader.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders"
@@ -941,6 +961,15 @@
             ]
         },
         {
+            "key": "assets/content/hands/hands_bear_sso/hands_bear_sso.skin.bundle",
+            "dependencyKeys": [
+                "assets/content/hands/bear/bear_hands_watch_texture.bundles",
+                "assets/content/hands/bear/bear_watch.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/hands/hands_bear_sumrak/hands_bear_sumrak_reverse_side.skin.bundle",
             "dependencyKeys": [
                 "assets/content/hands/bear/bear_hands_watch_texture.bundles",
@@ -957,6 +986,13 @@
             ]
         },
         {
+            "key": "assets/content/hands/hands_usec_crusader/hands_usec_crusader.skin.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/hands/hands_usec_hawaii_02/hands_usec_hawaii_02.skin.bundle",
             "dependencyKeys": [
                 "cubemaps",
@@ -965,127 +1001,6 @@
         },
         {
             "key": "assets/content/hands/hands_usec_kit_upper_hawaii_miami/hands_usec_kit_upper_hawaii_miami.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_echo_of_battle.bundle",
-            "dependencyKeys": [
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_ending_03.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_forgotten.bundle",
-            "dependencyKeys": [
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_01_and_survived.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_02_in_the_darkness.bundle",
-            "dependencyKeys": [
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_04_for_humanity.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_echo_of_battle.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_ending_03.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_forgotten.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_01_and_survived.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_02_in_the_darkness.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_04_for_humanity.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_echo_of_battle.bundle",
-            "dependencyKeys": [
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_ending_03.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_forgotten.bundle",
-            "dependencyKeys": [
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_01_and_survived.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_02_in_the_darkness.bundle",
-            "dependencyKeys": [
-                "cubemaps",
-                "shaders"
-            ]
-        },
-        {
-            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_04_for_humanity.bundle",
             "dependencyKeys": [
                 "cubemaps",
                 "shaders"
@@ -1243,6 +1158,14 @@
             ]
         },
         {
+            "key": "assets/content/items/barter/item_barter_dumbbell_golden/item_barter_dumbbell_golden.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_art_01.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -1300,6 +1223,14 @@
         },
         {
             "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_prestige_06.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/barter/item_barter_other_orange/item_barter_other_orange_01.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -1457,6 +1388,14 @@
             ]
         },
         {
+            "key": "assets/content/items/barter/wallet/item_container_wallet_loui_peeton.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/containers/item_container_arena_battlepass_s1/item_container_arena_battlepass_s1_01.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -1466,6 +1405,22 @@
         },
         {
             "key": "assets/content/items/containers/item_container_arena_battlepass_s1/item_container_arena_battlepass_s1_02.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/containers/item_container_coffee_can/item_container_coffee_can.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/containers/item_container_food/item_container_food_hot_rod.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -1490,6 +1445,14 @@
         },
         {
             "key": "assets/content/items/containers/item_container_moderator_toolbox/item_container_moderator_toolbox.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/containers/item_container_smallitems/item_container_dogtagcase_twitch.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -1696,6 +1659,14 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/facecover_balaclava/item_equipment_facecover_balaclava_burntpeanut.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/facecover_balaclava/item_equipment_facecover_balaclava_pink_bp2.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -1705,6 +1676,14 @@
         },
         {
             "key": "assets/content/items/equipment/facecover_balaclava/item_equipment_facecover_balaclava_zaebtsa_bp2.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/facecover_ballistic_mask/item_equipment_facecover_ballistic_mask_blasted_ice.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -1768,6 +1747,14 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/facecover_coldgear/item_equipment_facecover_coldgear_multicam_alpine.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/facecover_coldgear/item_equipment_facecover_coldgear_skull_bp2.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -1824,6 +1811,14 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/facecover_extreme_cold_weather/item_equipment_facecover_extreme_cold_weather.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/facecover_gasmask_avon_m53a1/item_equipment_facecover_gasmask_avon_m53a1.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -1833,6 +1828,14 @@
         },
         {
             "key": "assets/content/items/equipment/facecover_gasmask_gentex_ops_core_sotr/item_equipment_facecover_gasmask_gentex_ops_core_sotr.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/facecover_skull_half_mask/item_equipment_facecover_skull_half_mask_skull_santa.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -2032,6 +2035,38 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/head_ushanka_dmnt/item_equipment_head_ushanka_dmnt.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/head_ushanka_dmnt/item_equipment_head_ushanka_dmnt_white.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/headset_cens_proflex_dx5/item_equipment_headset_cens_proflex_dx5.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/headset_m32/item_equipment_headset_m32_arena_ny2025.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/headset_peltor_tep_300/item_equipment_headset_peltor_tep_300.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -2064,6 +2099,14 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/helmet_galvion_applique/item_equipment_helmet_galvion_applique_arena_ny2025.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/helmet_galvion_applique/item_equipment_helmet_galvion_applique_multicam_bp2.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -2080,6 +2123,14 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman_arena_ny2025.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman_multicam_bp2.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -2089,6 +2140,14 @@
         },
         {
             "key": "assets/content/items/equipment/helmet_galvion_caiman/item_equipment_helmet_galvion_caiman_venom_bp2.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/helmet_galvion_mandible/item_equipment_helmet_galvion_mandible_arena_ny2025.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -2137,6 +2196,14 @@
         },
         {
             "key": "assets/content/items/equipment/helmet_neosteel_mandible/item_equipment_helmet_neosteel_mandible_black_bp2.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/helmet_ulach/item_equipment_helmet_ulach_arena_ny2025.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -2216,6 +2283,14 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/plate_pgd_esapi_iv_sa_medium/item_equipment_plate_pgd_esapi_iv_sa_medium.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/rig_alpha/item_equipment_rig_alpha_au_bp2.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -2265,6 +2340,38 @@
             ]
         },
         {
+            "key": "assets/content/items/equipment/rig_jpc_first_gen_mil_spec_v1/item_equipment_rig_jpc_first_gen_mil_spec_v1.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/rig_jpc_wild/item_equipment_rig_jpc_wild_1.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/rig_jpc_wild/item_equipment_rig_jpc_wild_2.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/equipment/rig_m2/item_equipment_rig_m2_winter.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/equipment/rig_mk3/item_equipment_rig_mk3_moss_bp2.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -2282,6 +2389,14 @@
         },
         {
             "key": "assets/content/items/equipment/rig_strandhogg/item_equipment_rig_strandhogg_abu_bp2.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/meds/item_meds_alusplint/item_meds_alusplint_tigzresq.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -2448,6 +2563,14 @@
             ]
         },
         {
+            "key": "assets/content/items/mods/charges/charge_ar10_kac_charging_handle_std_tau.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/mods/charges/charge_ar15_colt_charging_handle_early.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -2501,6 +2624,22 @@
                 "assets/content/hands/bear/bear_hands_watch_texture.bundles",
                 "assets/content/hands/bear/bear_watch.bundle",
                 "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/gasblock/gas_block_ar10_kac_m110_double_high_picatinny.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/gasblock/gas_block_ar10_kac_m110_double_high_picatinny_tau.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
                 "shaders"
             ]
@@ -2590,6 +2729,38 @@
         },
         {
             "key": "assets/content/items/mods/handguards/handguard_ak308_izhmash_ak308_std.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/handguards/handguard_ar10_kac_sr25_urx_2_125_inch.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/handguards/handguard_ar10_kac_sr25_urx_2_125_inch_tau.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/handguards/handguard_ar10_kac_sr25_urx_31_135_inch.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/handguards/handguard_ar10_kac_sr25_urx_31_135_inch_tau.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -3335,6 +3506,15 @@
             ]
         },
         {
+            "key": "assets/content/items/mods/muzzle/muzzle_ar10_potomac_armory_m110_flash_hider_762x51.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/mods/muzzle/muzzle_ar15_allen_engineering_spr_brake_556x45.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -3469,6 +3649,14 @@
         },
         {
             "key": "assets/content/items/mods/recievers/reciever_ak308_izhmash_ak308_std.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/recievers/reciever_ar10_kac_sr25_upper_std_tau.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
@@ -3669,6 +3857,24 @@
             ]
         },
         {
+            "key": "assets/content/items/mods/silencers/silencer_base_kac_sr25_mk11_suppressor_762x51.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/items/mods/silencers/silencer_base_kac_sr25_mk11_suppressor_762x51_tau.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/systems/effects/smoke.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/mods/silencers/silencer_val_mod4_nb_mod4_std_9x39.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -3764,6 +3970,14 @@
             ]
         },
         {
+            "key": "assets/content/items/mods/stocks/stock_ar15_kac_m110_sass_tau.bundle",
+            "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
             "key": "assets/content/items/mods/stocks/stock_ar15_magpul_acs_carbine.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
@@ -3848,6 +4062,7 @@
         {
             "key": "assets/content/items/mods/stocks/stock_ucs_magpul_ucs_buttstock_cheek.bundle",
             "dependencyKeys": [
+                "assets/commonassets/physics/physicsmaterials.bundle",
                 "cubemaps",
                 "shaders"
             ]
@@ -3912,23 +4127,184 @@
             ]
         },
         {
-            "key": "assets/content/weapons/ak308/weapon_izhmash_ak308_762x51_container.bundle",
+            "key": "assets/content/items/spec/keys/item_key_1.bundle",
             "dependencyKeys": [
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/saiga12.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
+                "assets/content/items/spec/keys/keys_textures.bundle",
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_echo_of_battle.bundle",
+            "dependencyKeys": [
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_ending_03.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_forgotten.bundle",
+            "dependencyKeys": [
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_01_and_survived.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_02_in_the_darkness.bundle",
+            "dependencyKeys": [
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/ceilings/ceiling_story_04_for_humanity.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_echo_of_battle.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_ending_03.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_forgotten.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_01_and_survived.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_02_in_the_darkness.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/floors/floor_story_04_for_humanity.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_echo_of_battle.bundle",
+            "dependencyKeys": [
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_ending_03.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_forgotten.bundle",
+            "dependencyKeys": [
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_01_and_survived.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_02_in_the_darkness.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/00_hideout/prefabs/customization/walls/wall_story_04_for_humanity.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/lootable/prefab/rand_loot_container_twitch_common.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/lootable/prefab/rand_loot_container_twitch_rare.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/location_objects/lootable/prefab/rand_loot_container_twitch_superrare.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/adar_2-15/weapon_adar_2-15_556x45_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/ak308/weapon_izhmash_ak308_762x51_container.bundle",
+            "dependencyKeys": [
+                "shaders",
                 "cubemaps",
-                "shaders"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
@@ -3950,198 +4326,253 @@
         {
             "key": "assets/content/weapons/ar15_radian/weapon_radian_ar15_model1_fa_556x45_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/banks/m4a1.bundle",
-                "assets/content/audio/banks/rsass.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/m4a1.bundle",
-                "assets/content/audio/weapons/mpx.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
-                "cubemaps",
-                "shaders"
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
             "key": "assets/content/weapons/finka_nkvd/weapon_finka_nkvd_container.bundle",
             "dependencyKeys": [
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/knife_bayonet.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
-                "assets/content/weapons/weapon_root_anim_fix.bundle",
-                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "shaders",
                 "cubemaps",
-                "shaders"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/hk416/weapon_hk_416a5_556x45_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
             "key": "assets/content/weapons/m16/weapon_colt_m16a1_556x45_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/banks/m4a1.bundle",
-                "assets/content/audio/banks/rsass.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/m4a1.bundle",
-                "assets/content/audio/weapons/mpx.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
-                "cubemaps",
-                "shaders"
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
             "key": "assets/content/weapons/m16/weapon_colt_m16a2_556x45_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/banks/m4a1.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/m4a1.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/m4a1/weapon_colt_m4a1_556x45_container.bundle",
+            "dependencyKeys": [
+                "shaders",
                 "cubemaps",
-                "shaders"
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/mcx/weapon_sig_mcx_gen1_762x35_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
             "key": "assets/content/weapons/miller/weapon_miller_bros_m-2_brown_container.bundle",
             "dependencyKeys": [
-                "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/weapons/knife_bayonet.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
-                "assets/content/weapons/weapon_root_anim_fix.bundle",
-                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "cubemaps",
+              "shaders",
+              "cubemaps",
+              "assets/commonassets/physics/physicsmaterials.bundle",
+              "assets/content/weapons/weapon_root_anim_fix.bundle",
+              "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+              "assets/systems/effects/heathaze/defaultheathaze.bundle",
+              "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+              "assets/content/audio/weapons/generic",
+              "assets/content/audio/blendoptions/assets.bundle",
+              "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/mxlr/client_assets.bundle",
+            "dependencyKeys": [
+                "assets/content/weapons/mxlr/textures/client_assets.bundle",
                 "shaders"
             ]
         },
         {
+            "key": "assets/content/weapons/mxlr/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+        {
             "key": "assets/content/weapons/mxlr/weapon_marlin_m1895_mxlr_784x49_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/mr133.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
-                "shaders"
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
             "key": "assets/content/weapons/nl545/weapon_cgnl_nl545_545x39_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/akm/instrumental.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/mpx.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
-                "assets/content/weapons/nl545/weapon_cgnl_nl545_di_545x39_container.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
-                "cubemaps",
-                "shaders"
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
             "key": "assets/content/weapons/nl545/weapon_cgnl_nl545_di_545x39_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/akm/instrumental.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/mpx.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/sr25/weapon_kac_sr25_762x51_tau_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/svdk/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/weapons/svdk/weapon_sniperarms_dynamics_tkpd_93x64_container.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/weapons/weapon_root_anim_fix.bundle",
+                "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+                "assets/systems/effects/heathaze/defaultheathaze.bundle",
+                "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
+            ]
+        },
+        {
+            "key": "assets/content/weapons/tx15/client_assets.bundle",
+            "dependencyKeys": [
+                "assets/content/weapons/tx15/textures/client_assets.bundle",
                 "cubemaps",
                 "shaders"
             ]
         },
         {
-            "key": "assets/content/weapons/svdk/weapon_sniperarms_dynamics_tkpd_93x64_container.bundle",
+            "key": "assets/content/weapons/tx15/textures/client_assets.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/sa58/instr/fal_stock_snd",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
-                "cubemaps",
-                "shaders"
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         },
         {
             "key": "assets/content/weapons/val_mod4/weapon_nb_val_mod4_9x39_container.bundle",
             "dependencyKeys": [
+                "shaders",
+                "cubemaps",
                 "assets/commonassets/physics/physicsmaterials.bundle",
-                "assets/content/audio/blendoptions/assets.bundle",
-                "assets/content/audio/weapons/ak74.bundle",
-                "assets/content/audio/weapons/generic",
-                "assets/content/audio/weapons/kedr.bundle",
-                "assets/content/weapons/additional_hands/client_assets.bundle",
-                "assets/content/weapons/animations/simple_animations.bundle",
-                "assets/content/weapons/animations/spirit_animations.bundle",
                 "assets/content/weapons/weapon_root_anim_fix.bundle",
                 "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
                 "assets/systems/effects/heathaze/defaultheathaze.bundle",
                 "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-                "assets/systems/effects/smoke.bundle",
-                "cubemaps",
-                "shaders"
+                "assets/content/audio/weapons/generic",
+                "assets/content/audio/blendoptions/assets.bundle",
+                "assets/content/weapons/additional_hands/client_assets.bundle"
             ]
         }
     ]
