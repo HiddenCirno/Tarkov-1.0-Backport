@@ -146,12 +146,34 @@ public class BaseGameItemEdits(
                         "6932aeebbe542622170428ba",
                         "6936bde84737190b66053bb1"]);
                     break; //Manually push M110 gas blocks to SR-25 barrels
-                
+                    
                 case "5dfa397fb11454561e39246c":
                     slotHelper.ModifySlotFilters(item, 1, 0, [
                         "6932aeebbe542622170428ba",
                         "6936bde84737190b66053bb1"]);
                     break; //Manually push M110 gas blocks to SR-25 barrels
+                case "623063e994fc3f7b302a9696":
+                    item.Properties.Slots.Append(new Slot()
+                    {
+                        Id = new MongoId(),
+                        Name = "mod_sight_front",
+                        Parent = "623063e994fc3f7b302a9696",
+                        MaxCount = 1,
+                        MergeSlotWithChildren = false,
+                        Prototype = "55d30c4c4bdc2db4468b457e",
+                        Properties = new SlotProperties()
+                        {
+                            Filters = new List<SlotFilter>()
+                            {
+                                new()
+                                {
+                                    Filter = ["680b87fc9402a78e7504a057"]
+                                }
+                            }
+                        }
+
+                    });
+                    break; //Manually add new mod_sight_front to g36 template
             }
         }
     }
