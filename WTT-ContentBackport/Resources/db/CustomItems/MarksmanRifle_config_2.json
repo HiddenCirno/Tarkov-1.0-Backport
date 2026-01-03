@@ -683,11 +683,10 @@
         ]
       }
     ],
-    "addWeaponPreset": false,
     "weaponPresets": [],
     "addtoTraders": false,
     "traders": {},
-    "addweaponpreset": true,
+    "addWeaponPreset": true,
     "weaponpresets": [
       {
         "_id": "693ae5b60a32abe2210c69d6",
