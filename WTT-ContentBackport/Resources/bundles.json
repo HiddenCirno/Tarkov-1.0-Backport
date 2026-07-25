@@ -3668,6 +3668,14 @@
       ]
     },
     {
+      "key": "assets/content/items/infosubject/item_info_intelligence/quest_med_journal_1.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/infosubject/item_info_note/item_info_note_bluefire_mchs.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -6334,6 +6342,14 @@
       ]
     },
     {
+      "key": "assets/content/items/quest/item_quest_bloodsample/item_quest_bloodsample.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/quest/item_quest_bogatir_moreman_tag/item_quest_moreman_tag.bundle",
       "dependencyKeys": [
         "shaders",
@@ -6638,6 +6654,13 @@
     },
     {
       "key": "assets/content/items/spec/keys/item_key_8.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/spec/keys/item_key_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/spec/keys/item_key_9.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "assets/content/items/spec/keys/item_key_assets.bundle"
