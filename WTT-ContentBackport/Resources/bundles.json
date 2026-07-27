@@ -6965,6 +6965,18 @@
       ]
     },
     {
+      "key": "assets/content/weapons/m8230/client_assets.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/content/weapons/m8230/textures/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/m8230/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/weapons/m8230/weapon_grenade_m8230_container.bundle",
       "dependencyKeys": [
         "assets/content/weapons/animations/simple_animations.bundle",
@@ -7222,6 +7234,14 @@
       ]
     },
     {
+      "key": "assets/content/weapons/usable_items/item_recorder/client_assets.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "assets/content/weapons/usable_items/item_recorder/textures/client_assets.bundle",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/weapons/usable_items/item_recorder/item_recorder_container.bundle",
       "dependencyKeys": [
         "assets/content/weapons/usable_items/item_recorder/client_assets.bundle",
@@ -7236,6 +7256,25 @@
         "assets/content/audio/weapons/pm.bundle",
         "assets/content/audio/weapons/generic",
         "assets/content/audio/banks/pm.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_recorder/item_recorder_loot.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_recorder/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/content/weapons/usable_items/item_recorder/textures/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_recorder/item_recorder_tape_loot.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "assets/content/weapons/usable_items/item_recorder/textures/client_assets.bundle",
+        "shaders",
+        "assets/content/weapons/usable_items/item_recorder/client_assets.bundle"
       ]
     },
     {
@@ -7257,6 +7296,10 @@
         "assets/content/weapons/usable_items/item_recorder/textures/client_assets.bundle",
         "shaders"
       ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_recorder/textures/client_assets.bundle",
+      "dependencyKeys": []
     },
     {
       "key": "assets/content/weapons/val_mod4/weapon_nb_val_mod4_9x39_container.bundle",
