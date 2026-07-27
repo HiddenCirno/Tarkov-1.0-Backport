@@ -295,7 +295,6 @@
   "67c0345b354fca26a0008036": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -393,7 +392,6 @@
   "67c04a9bd98287be7b0923d8": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",

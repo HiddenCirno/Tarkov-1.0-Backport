@@ -2,7 +2,6 @@
   "67c0497068e50a07b10d2576": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -100,7 +99,6 @@
   "67bde1dc5678472f2a0e6167": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -197,7 +195,6 @@
   "67c0352dd98287be7b0923d6": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -973,7 +970,6 @@
   "67c034f0e7a5da1e070f6de8": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -1070,7 +1066,6 @@
   "67c035140610e91bea05699a": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -1167,7 +1162,7 @@
   "67c0351e354fca26a0008038": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
+    
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -1558,7 +1553,7 @@
   "67bde548cf0cc29475092192": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
+    
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -1754,7 +1749,7 @@
   "67bde22566ca1d79a202462f": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
+    
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
@@ -1950,7 +1945,7 @@
   "67c04b8de7a5da1e070f6dec": {
     "itemTplToClone": "590c37d286f77443be3d7827",
     "parentId": "5448ecbe4bdc2d60728b4568",
-    "handbookParentId": "SETME",
+    
     "overrideProperties": {
       "AnimationVariantsNumber": 0,
       "BackgroundColor": "yellow",
