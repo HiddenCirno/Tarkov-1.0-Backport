@@ -73,7 +73,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -165,7 +164,9 @@
         "description": "A next generation low-profile active headset, designed to protect the user's hearing from external factors. Manufactured by Safariland. MultiCam version."
       }
     },
-    "addtoInventorySlots": [ "Earpiece" ],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 44560,
@@ -263,7 +264,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -355,7 +355,9 @@
         "description": "An improved version of the ComTac V communication headset, equipped with advanced environmental listening settings and an NIB (Natural Interaction Behavior) feature, allowing to communicate with other ComTac VI users in a certain proximity without having to use radios. Manufactured by 3M Peltor. Black version."
       }
     },
-    "addtoInventorySlots": ["Earpiece"],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 76780,
@@ -461,7 +463,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -553,7 +554,9 @@
         "description": "The Razor electronic ear muffs feature an ultra low-profile design and a rubberized coating for added durability and comfort, also providing optimal hearing protection. Manufactured by Walker's. A version for the true gladiators."
       }
     },
-    "addtoInventorySlots": ["Earpiece"],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 36660,
@@ -580,7 +583,7 @@
     "traders": {}
   },
   "69c264c00f660b3f0d058fcf": {
-    "itemTplToClone": "5645bcc04bdc2d363b8b4572",
+    "itemTplToClone": "5e00cfa786f77469dc6e5685",
     "parentId": "5645bcb74bdc2ded0b8b4578",
     "handbookParentId": "5b5f6f3c86f774094242ef87",
     "overrideProperties": {
@@ -662,7 +665,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -755,8 +757,10 @@
       }
     },
     "addtoInventorySlots": [],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_equipment_000"
+    ],
     "fleaPriceRoubles": 72770,
     "handbookPriceRoubles": 68920,
     "addtoBots": false,
@@ -781,7 +785,7 @@
     "traders": {}
   },
   "69c26593ea474c30ad069f8f": {
-    "itemTplToClone": "5645bcc04bdc2d363b8b4572",
+    "itemTplToClone": "5e00cfa786f77469dc6e5685",
     "parentId": "5645bcb74bdc2ded0b8b4578",
     "handbookParentId": "5b5f6f3c86f774094242ef87",
     "overrideProperties": {
@@ -863,7 +867,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -955,9 +958,11 @@
         "description": "An improved version of the ComTac V communication headset, equipped with advanced environmental listening settings and an NIB (Natural Interaction Behavior) feature, allowing to communicate with other ComTac VI users in a certain proximity without having to use radios. Equipped with a mount for attaching the headset to Team Wendy EXFIL helmets. Manufactured by 3M Peltor. Ranger Green version."
       }
     },
-    "addtoInventorySlots": ["Earpiece"],
-    "addtoModSlots": false,
-    "modSlot": [],
+    "addtoInventorySlots": [],
+    "addtoModSlots": true,
+    "modSlot": [
+      "mod_equipment_000"
+    ],
     "fleaPriceRoubles": 70990,
     "handbookPriceRoubles": 68920,
     "addtoBots": false,
@@ -1053,7 +1058,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1145,7 +1149,9 @@
         "description": "An improved version of the ComTac V communication headset, equipped with advanced environmental listening settings and an NIB (Natural Interaction Behavior) feature, allowing to communicate with other ComTac VI users in a certain proximity without having to use radios. Manufactured by 3M Peltor. Ranger Green version."
       }
     },
-    "addtoInventorySlots": ["Earpiece"],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 74770,
@@ -1245,7 +1251,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1337,7 +1342,9 @@
         "description": "A next generation low-profile active headset, designed to protect the user's hearing from external factors. Manufactured by Safariland. Black version."
       }
     },
-    "addtoInventorySlots": ["Earpiece"],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 44340,
@@ -1437,7 +1444,6 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1529,7 +1535,9 @@
         "description": "A next generation low-profile active headset, designed to protect the user's hearing from external factors. Manufactured by Safariland. MultiCam Black version."
       }
     },
-    "addtoInventorySlots": ["Earpiece"],
+    "addtoInventorySlots": [
+      "Earpiece"
+    ],
     "addtoModSlots": false,
     "modSlot": [],
     "fleaPriceRoubles": 44304,
