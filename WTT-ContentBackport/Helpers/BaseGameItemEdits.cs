@@ -19,7 +19,7 @@ public class BaseGameItemEdits(
 {
     private static readonly string[] CultistCircleIds =
 {
-"5733279d245977289b77ec24",
+                  "5733279d245977289b77ec24",
                   "5d03794386f77420415576f5",
                   "5e2aee0a86f774755a234b62",
                   "5e2aedd986f7746d404f3aa4",
@@ -883,10 +883,7 @@ public class BaseGameItemEdits(
 
                         foreach (var allowedId in CultistCircleIds)
                         {
-                            if (!cultistFilter.Contains(allowedId))
-                            {
-                                cultistFilter.Add(allowedId);
-                            }
+                            cultistFilter.Add(allowedId);
                         }
                         break;
                 case "5e00c1ad86f774747333222c":
@@ -950,6 +947,9 @@ public class BaseGameItemEdits(
                     filter.Add("6937ecf8628ee476240c07cb");
                     filter.Add("69398e94ca94fd2877039504");
                     filter.Add("6937f02dfd6488bb27024839");
+                    filter.Add("69f9d319c906cd16da03b374");
+                    filter.Add("69f9d547b98cc4120608692a");
+                    filter.Add("69f9d60b5de6674f08060f2a");
                     break;
                 case "5929a2a086f7744f4b234d43":
                     item.Properties.Prefab.Path =
