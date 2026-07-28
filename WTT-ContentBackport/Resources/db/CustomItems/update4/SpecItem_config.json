@@ -25,7 +25,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -81,8 +81,6 @@
     "modSlot": [],
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 32082,
-    "addtoItemBlacklist": true,
-    "registerInFleaPrices": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],

@@ -25,7 +25,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": true,
@@ -78,9 +78,6 @@
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 0,
     "addtoBots": false,
-    "addtoItemBlacklist": true,
-    "registerInFleaPrices": false,
-    "registerInHandbook":  false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoHallOfFame": false,

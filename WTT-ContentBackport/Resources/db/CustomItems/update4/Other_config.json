@@ -24,7 +24,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -77,8 +77,6 @@
     "modSlot": [],
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 0,
-    "addtoItemBlacklist": true,
-    "registerInFleaPrices": false,
     "registerInHandbook": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -127,7 +125,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": true,
@@ -180,8 +178,6 @@
     "modSlot": [],
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 0,
-    "addtoItemBlacklist": true,
-    "registerInFleaPrices": false,
     "registerInHandbook": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
@@ -229,7 +225,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-
+      
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -283,8 +279,6 @@
     "fleaPriceRoubles": 0,
     "handbookPriceRoubles": 0,
     "registerInHandbook": false,
-    "addtoItemBlacklist": true,
-    "registerInFleaPrices": false,
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
