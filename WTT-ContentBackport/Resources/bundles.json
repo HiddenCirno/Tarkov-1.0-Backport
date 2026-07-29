@@ -3047,6 +3047,10 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_black_bp03.bundle",
       "dependencyKeys": [
         "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
