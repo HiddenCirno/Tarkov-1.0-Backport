@@ -25,7 +25,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -85,6 +85,7 @@
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
+    "addtoItemBlacklist": true,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -123,7 +124,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -177,6 +178,7 @@
     "addtoBots": false,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
+    "addtoItemBlacklist": true,
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
@@ -221,7 +223,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -273,6 +275,7 @@
     "fleaPriceRoubles": 141116,
     "handbookPriceRoubles": 120470,
     "addtoBots": false,
+    "addtoItemBlacklist": true,
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoHallOfFame": false,
@@ -319,7 +322,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -376,6 +379,7 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
+    "addtoItemBlacklist": true,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
@@ -417,7 +421,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -472,6 +476,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoHallOfFame": false,
+    "addtoItemBlacklist": true,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
@@ -515,7 +520,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -570,6 +575,7 @@
     "addtoStaticLootContainers": false,
     "staticLootContainers": [],
     "addtoHallOfFame": false,
+    "addtoItemBlacklist": true,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
@@ -613,7 +619,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -673,6 +679,7 @@
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
+    "addtoItemBlacklist": true,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,
     "addtoStaticAmmo": false,
@@ -711,7 +718,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -770,6 +777,7 @@
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
+    "addtoItemBlacklist": true,
     "posterSpawnProbability": 0,
     "addtoStatuetteSlots": false,
     "addCaliberToAllCloneLocations": false,

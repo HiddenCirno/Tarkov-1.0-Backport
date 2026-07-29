@@ -25,7 +25,7 @@
       "InsuranceDisabled": true,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": true,
       "IsUnbuyable": true,
@@ -124,7 +124,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -181,6 +181,7 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
+    "addtoItemBlacklist": true,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
@@ -1216,7 +1217,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1272,6 +1273,7 @@
     "staticLootContainers": [],
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
+    "addtoItemBlacklist": true,
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
@@ -1314,7 +1316,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1372,6 +1374,7 @@
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
+    "addtoItemBlacklist": true,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
     "addtoStatuetteSlots": false,
@@ -1412,7 +1415,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1469,6 +1472,7 @@
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
     "addtoSpecialSlots": false,
+    "addtoItemBlacklist": true,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
     "posterSpawnProbability": 0,
@@ -1510,7 +1514,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -1566,6 +1570,7 @@
     "staticLootContainers": [],
     "addtoHallOfFame": false,
     "hallOfFameSlots": [],
+    "addtoItemBlacklist": true,
     "addtoSpecialSlots": false,
     "addtoHideoutPosterSlots": false,
     "addPosterToMaps": false,
