@@ -3015,7 +3015,6 @@
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_black_bp03.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps"
       ]
@@ -3024,7 +3023,6 @@
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_multicam_bp03.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps"
       ]
@@ -3033,7 +3031,6 @@
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_olive_drab_green.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps"
       ]
@@ -3049,7 +3046,6 @@
     {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_black_bp03.bundle",
       "dependencyKeys": [
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
@@ -3058,7 +3054,6 @@
     {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_multicam_bp03.bundle",
       "dependencyKeys": [
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
@@ -3067,7 +3062,6 @@
     {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_olive_drab_green.bundle",
       "dependencyKeys": [
-        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
