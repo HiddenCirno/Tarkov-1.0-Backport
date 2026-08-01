@@ -3012,7 +3012,25 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_black_bp03.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_mesh_green_bp03.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
@@ -3047,11 +3065,38 @@
       ]
     },
     {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_snake_skin_bp03.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
       "dependencyKeys": []
     },
     {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_black_bp03.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_mesh_green_bp03.bundle",
       "dependencyKeys": [
         "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
@@ -3080,6 +3125,15 @@
     {
       "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_shark_bp03.bundle",
       "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_ears_snake_skin_bp03.bundle",
+      "dependencyKeys": [
+        "assets/content/items/equipment/helmet_crye_airframe_chops/item_equipment_helmet_crye_airframe_chops_textures",
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
