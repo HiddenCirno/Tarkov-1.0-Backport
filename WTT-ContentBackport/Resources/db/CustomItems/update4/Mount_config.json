@@ -272,7 +272,7 @@
     "traders": {}
   },
   "6985bed26be2752c150e6898": {
-    "itemTplToClone": "655f13e0a246670fb0373245",
+    "itemTplToClone": "58d39d3d86f77445bb794ae7",
     "parentId": "55818b224bdc2dde698b456f",
     "handbookParentId": "5b5f755f86f77447ec5d770e",
     "overrideProperties": {
@@ -297,7 +297,7 @@
       "InsuranceDisabled": false,
       "IsAlwaysAvailableForInsurance": false,
       "IsLockedafterEquip": false,
-      
+
       "IsSecretExitRequirement": false,
       "IsSpecialSlotOnly": false,
       "IsUnbuyable": false,
@@ -391,9 +391,9 @@
     "addtoInventorySlots": [],
     "addtoModSlots": true,
     "modSlot": [
+      "mod_mount_003",
       "mod_scope",
       "mod_scope_000",
-      "mod_scope_001",
       "mod_tactical",
       "mod_tactical_000",
       "mod_tactical_002"
