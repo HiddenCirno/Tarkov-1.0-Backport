@@ -1,6 +1,8 @@
-﻿using SPTarkov.DI.Annotations;
+﻿using SPTarkov.Common.Models.Logging;
+using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
+using SPTarkov.Server.Core.Models.Spt.Tables;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using WTTServerCommonLib.Helpers;
@@ -8,7 +10,7 @@ using WTTServerCommonLib.Helpers;
 namespace WTTContentBackport.Helpers
 {
     [Injectable]
-    public class BackportQuestHelper(DatabaseService  databaseService, ISptLogger<BackportQuestHelper> logger, QuestHelper questHelper)
+    public class BackportQuestHelper(ISptLogger<BackportQuestHelper> logger, QuestHelper questHelper, TemplateTable templates)
     {
 
         // Define weapon IDs
@@ -125,7 +127,7 @@ namespace WTTContentBackport.Helpers
         
         public void ModifyQuests()
         {
-            var quests = databaseService.GetTemplates().Quests;
+            var quests = templates.Quests;
 
             // ReSharper disable CommentTypo
             // ====================== PRAPOR QUESTS ======================

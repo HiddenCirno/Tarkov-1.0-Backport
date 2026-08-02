@@ -1,19 +1,21 @@
 ﻿using HarmonyLib;
+using SPTarkov.Common.Models.Logging;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
 using SPTarkov.Server.Core.Models.Common;
 using SPTarkov.Server.Core.Models.Eft.Common.Tables;
 using SPTarkov.Server.Core.Models.Enums;
+using SPTarkov.Server.Core.Models.Spt.Tables;
 using SPTarkov.Server.Core.Models.Utils;
 using SPTarkov.Server.Core.Services;
 using WTTServerCommonLib.Helpers;
 
 namespace WTTContentBackport.Helpers;
 
-[Injectable(typePriority: OnLoadOrder.PostDBModLoader + 3)]
+[Injectable(typePriority: OnLoadOrder.Preload + 3)]
 public class BaseGameItemEdits(
     ISptLogger<BaseGameItemEdits> logger,
-    DatabaseService databaseService,
+    TemplateTable templates,
     SlotHelper slotHelper
 ) : IOnLoad
 {
@@ -860,7 +862,7 @@ public class BaseGameItemEdits(
                   "69f9d319c906cd16da03b374",
                   "69bb41c03b5fb75517065960"
 };
-    public Task OnLoad()
+    public Task OnLoadAsync(CancellationToken cancellationToken)
     {
         EditFilters();
         return Task.CompletedTask;
@@ -868,7 +870,7 @@ public class BaseGameItemEdits(
 
     private void EditFilters()
     {
-        var dbItems = databaseService.GetItems();
+        var dbItems = templates.Items;
         foreach (var (id, item) in dbItems)
         {
             switch (id)

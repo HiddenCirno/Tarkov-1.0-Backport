@@ -21,8 +21,8 @@ namespace WTTContentBackportClient.Patches
                 return true;
 
             Mod[] array = __instance.Item.AllSlots
-                .Where(Player.FirearmController.Class1237.class1237_0.method_5)
-                .Select(Player.FirearmController.Class1237.class1237_0.method_6)
+                .Where(Player.FirearmController.CG_Class1237.CG_Class1237.method_5)
+                .Select(Player.FirearmController.CG_Class1237.CG_Class1237.method_6)
                 .ToArray();
 
             if (array.Length == 0)
@@ -31,7 +31,7 @@ namespace WTTContentBackportClient.Patches
                 return false;
             }
 
-            int maxId = array.Max(Player.FirearmController.Class1237.class1237_0.method_7);
+            int maxId = array.Max(Player.FirearmController.CG_Class1237.CG_Class1237.method_7);
 
             __instance.FirearmsAnimator.SetUniqueAnimationModId(maxId);
 
@@ -45,7 +45,7 @@ namespace WTTContentBackportClient.Patches
         {
             var animator = fc.FirearmsAnimator?.Animator;
             animator?.SetFloat(
-                WeaponAnimationSpeedControllerClass.FLOAT_ANIMATION_MOD_ID_FLOAT,
+                AnimationControllerParametersTable.FLOAT_ANIMATION_MOD_ID_FLOAT,
                 value
             );
         }
