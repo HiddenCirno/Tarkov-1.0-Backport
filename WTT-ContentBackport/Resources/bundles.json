@@ -414,6 +414,10 @@
       "dependencyKeys": []
     },
     {
+      "key": "assets/content/audio/weapons/knife_bayonet.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/characters/character/prefabs/bear_head_vas_tattoo.bundle",
       "dependencyKeys": [
         "shaders",
@@ -1151,6 +1155,46 @@
       ]
     },
     {
+      "key": "assets/content/items/ammo/patrons/patron_127x33_fmj.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/ammo/patrons/patron_58x42_dbp191.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/ammo/patrons/patron_58x42_dbx95.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/ammo/patrons/patron_58x42_dvc12.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/ammo/patrons/patron_58x42_dvx12.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/ammo/patrons/patron_762x25tt_timbs_855a1.bundle",
       "dependencyKeys": [
         "shaders",
@@ -1219,6 +1263,46 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_dogtags_blackdivision/item_barter_dogtags_blackdivision_ferrum.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_dogtags_blackdivision/item_barter_dogtags_blackdivision_green.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_dogtags_blackdivision/item_barter_dogtags_blackdivision_red.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_dogtags_blackdivision_old/item_barter_dogtags_blackdivision_old.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_dogtags_double/item_barter_dogtags_double.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -1486,11 +1570,75 @@
       ]
     },
     {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_streets_of_tarkov.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_tbattlepass_s1_beware.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_tbattlepass_s1_burn.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_flyers/item_barter_flyers_tbattlepass_s1_dark.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_icebreaker_box/item_barter_icebreaker_box.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_icebreaker_statue/item_barter_icebreaker_statue.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_bdssd/item_barter_info_bdssd.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/barter/item_barter_info_diskette/item_barter_info_diskette.bundle",
       "dependencyKeys": [
         "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_finance/item_barter_info_finance.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -1510,7 +1658,71 @@
       ]
     },
     {
+      "key": "assets/content/items/barter/item_barter_info_medicine/item_barter_info_medicine.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/barter/item_barter_info_militaryflash/item_barter_info_militaryflash.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_operating/item_barter_info_operating.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_personal/item_barter_info_personal.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_project/item_barter_info_project.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_scheme/item_barter_info_scheme.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_secretdoc/item_barter_info_secretdoc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_testing/item_barter_info_testing.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_info_user/item_barter_info_user.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -1692,6 +1904,14 @@
       ]
     },
     {
+      "key": "assets/content/items/barter/item_barter_valuable_kc130_model/item_barter_valuable_kc130_model.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/barter/item_barter_valuable_tarcoin/item_barter_valuable_tarcoin.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -1768,6 +1988,14 @@
       ]
     },
     {
+      "key": "assets/content/items/containers/item_container_briefcase/item_container_briefcase.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/containers/item_container_case_kompromat/item_container_case_kompromat.bundle",
       "dependencyKeys": [
         "shaders",
@@ -1816,6 +2044,14 @@
       ]
     },
     {
+      "key": "assets/content/items/containers/item_container_plates_case/item_container_plates_case.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/containers/item_container_smallitems/item_container_dogtagcase_twitch.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -1824,11 +2060,35 @@
       ]
     },
     {
+      "key": "assets/content/items/containers/item_container_tarkov_battlepass/item_container_tarkov_battlepass.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/containers/item_container_tube/item_container_tube.bundle",
       "dependencyKeys": [
         "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/containers/rand_item_container_plastic_suitcase_110/rand_item_container_plastic_suitcase_110.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/containers/rand_item_container_woodenbox/rand_item_container_woodenbox.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -2927,6 +3187,14 @@
       ]
     },
     {
+      "key": "assets/content/items/infosubject/item_info_intelligence/item_info_intelligence.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/infosubject/item_info_intelligence/quest_med_journal_1.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -3471,6 +3739,22 @@
       ]
     },
     {
+      "key": "assets/content/items/infosubject/item_info_quest_bdtoughbook/item_info_quest_bdtoughbook.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/infosubject/item_info_quest_bdtoughbook_fence/item_info_quest_bdtoughbook_fence.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/infosubject/item_info_quest_biohazard_case/item_info_quest_biohazard_case.bundle",
       "dependencyKeys": [
         "shaders",
@@ -3655,6 +3939,10 @@
       ]
     },
     {
+      "key": "assets/content/items/infosubject/textures.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/items/meds/item_meds_alusplint/item_meds_alusplint_tigzresq.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -3668,6 +3956,32 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "shaders",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/barrels/barrel_416_hk_368mm_no_sight_556x45.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "assets/content/items/mods/barrels/barrel_416_hk_barrels_556x45_assets.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/barrels/barrel_416_hk_barrels_556x45_assets.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/barrels/barrel_417_hk_330mm_762x51.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle"
       ]
     },
     {
@@ -3791,6 +4105,24 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/barrels/barrel_qbz191_norinco_266mm_58x42.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/barrels/barrel_qbz191_norinco_368mm_58x42.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/barrels/barrel_rpd_ds_arms_370mm_762x39.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -3820,6 +4152,33 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/barrels/barrel_type20_howa_330mm_556x45.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/barrels/barrel_ump_419mm_threaded_1143x23.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/systems/effects/smoke.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/barrels/barrel_ump_kiba_292mm_threaded_1143x23.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/barrels/barrel_vpo215_360mm_366tkm.bundle",
       "dependencyKeys": [
         "shaders",
@@ -3837,6 +4196,14 @@
     },
     {
       "key": "assets/content/items/mods/charges/charge_ar15_colt_charging_handle_early.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/charges/charge_ar15_hk_extended_latch_charging_handle_ral8k.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -3867,7 +4234,39 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/charges/charge_mk16_kinetic_rch.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/charges/charge_mk16_pmm_bcd.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/charges/charge_mk16_sure_cycle_rifle_frag_angled.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/charges/charge_nl545_cgnl_nl545_std.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/charges/charge_type20_howa_type20_std.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "shaders",
@@ -3882,6 +4281,22 @@
         "assets/content/hands/bear/bear_watch.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/foregrips/foregrip_all_dd_vfg.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/foregrips/foregrip_all_dd_vfg_mspc.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
       ]
     },
     {
@@ -3947,6 +4362,14 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/gasblock/gas_block_qbz191_norinco_191_std.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/gasblock/gas_block_tkpd_sniperarms_dynamics_tkpd_std.bundle",
       "dependencyKeys": [
         "shaders",
@@ -3955,8 +4378,72 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/gasblock/gas_block_type20_howa_type20_std.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/handguards/handguard_416_cgnl_nl545_105_inch_fde.bundle",
       "dependencyKeys": [
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_416_geissele_smr_hk_105_inch.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_416_geissele_smr_hk_105_inch_ddc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_416_geissele_smr_hk_145_inch.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_416_geissele_smr_hk_145_inch_ddc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_416_hk_quad_rail_assets.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_416_hk_quad_rail_ral8k.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/handguards/handguard_416_hk_quad_rail_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_417_geissele_m110a1_m_lok_145_inch.bundle",
+      "dependencyKeys": [
+        "cubemaps",
         "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
@@ -4000,11 +4487,27 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/handguards/handguard_ak308_izhmash_ak308_mlok.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/handguards/handguard_ak308_izhmash_ak308_std.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_aks74u_samson_k_rail_3.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
       ]
     },
     {
@@ -4093,6 +4596,70 @@
         "cubemaps",
         "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_125_inch.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_125_inch_lower.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_125_inch_lower_mspc.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_125_inch_mspec.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_95_inch.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_95_inch_lower.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_95_inch_lower_mspc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ar15_dd_ris_iii_95_inch_mspc.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
       ]
     },
     {
@@ -4328,6 +4895,38 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/handguards/handguard_pk_hexagon_pk.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_qbz191_jia_zhou_trs_10_inch_mlok.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_qbz191_jia_zhou_trs_135_inch_mlok.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_qbz191_norinco_191_polymer_std.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/handguards/handguard_rpd_ds_arms_railed_handguard.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -4365,6 +4964,22 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "shaders",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_type20_howa_type20_mlok_std.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/handguards/handguard_ump_hk_extended_handguard_mlok.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -4425,11 +5040,43 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/magazines/mag_qbz191_norinco_58x42_30.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/magazines/mag_stanag_colt_ar15_std_556x45_20.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/magazines/mag_stanag_dd_mag_556x45_32.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/magazines/mag_stanag_lancer_l5_awm_556x45_30.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/magazines/mag_stanag_lancer_l5_awm_556x45_30_tan.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -4521,6 +5168,14 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/mounts/mount_all_howa_30mm_scope_mount_ring.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/mounts/mount_all_meprolight_mepro_m21_mount.bundle",
       "dependencyKeys": [
         "shaders",
@@ -4528,7 +5183,31 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/mounts/mount_all_norinco_qmk_171a_ris_mount.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/mounts/mount_all_surefire_scout_thumbscrew_mount.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/mounts/mount_all_trijicon_ac32067.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/mounts/mount_all_trijicon_ac32083.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -4632,6 +5311,38 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/mounts/mount_qbz191_norinco_long_rail.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/mounts/mount_qbz191_norinco_short_rail.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/mounts/mount_smrhk_geissele_long_rail_section.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/mounts/mount_smrhk_geissele_short_rail_section.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/mounts/mount_svt40_addley_precision_smithless_scope_mount.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -4729,6 +5440,24 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/muzzle/muzzle_ak74_jmac_laf_24_multi.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/muzzle/muzzle_ar10_huxwrx_flash_hider_qd_762x51.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/muzzle/muzzle_ar10_potomac_armory_m110_flash_hider_762x51.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -4764,6 +5493,15 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/muzzle/muzzle_ar15_howa_type20_std_556x45.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/muzzle/muzzle_ar15_lantac_dgn556b_muzzle_brake_556x45.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -4779,6 +5517,15 @@
         "cubemaps",
         "assets/systems/effects/smoke.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/muzzle/muzzle_qbz191_norinco_191_std_58x42.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders"
       ]
     },
     {
@@ -4864,6 +5611,22 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/pistol grips/pistolgrip_ar15_dd_enhanced.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/pistol grips/pistolgrip_ar15_dd_enhanced_mspc.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/pistol grips/pistolgrip_ar15_dlg_138.bundle",
       "dependencyKeys": [
         "shaders",
@@ -4873,6 +5636,14 @@
     },
     {
       "key": "assets/content/items/mods/pistol grips/pistolgrip_ar15_dlg_138_fde.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/pistol grips/pistolgrip_ar15_howa_type20_std.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders",
@@ -4908,6 +5679,14 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/pistol grips/pistolgrip_qbz191_norinco_191_std.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -4952,6 +5731,15 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/recievers/reciever_ar15_hk_hk416a5_std_ral8k.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/content/weapons/hk416/textures/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/recievers/reciever_nl545_cgnl_nl545_di.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -4961,6 +5749,14 @@
     {
       "key": "assets/content/items/mods/recievers/reciever_nl545_cgnl_nl545_fde.bundle",
       "dependencyKeys": [
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/recievers/reciever_qbz191_norinco_191_std.bundle",
+      "dependencyKeys": [
+        "cubemaps",
         "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
@@ -4982,6 +5778,14 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/recievers/reciever_type20_howa_type20_std.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/scopes/scope_30mm_leupold_mark_4_mr_t_ts_30a2_25_8x36.bundle",
       "dependencyKeys": [
         "shaders",
@@ -4989,6 +5793,24 @@
         "assets/systems/effects/opticsight/opticsightsmasks.bundle",
         "cubemaps",
         "assets/content/textures/holemanager/round_spec_mask.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/scopes/scope_30mm_march_f_shorty_1_8x24.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/scopes/scope_all_monstrum_marksman_3x30.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -5021,6 +5843,39 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/scopes/scope_base_norinco_qmk_171a.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32_mark",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32_mark",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/items/mods/scopes/scope_base_trijicon_acog_ta02_4x32.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+        "assets/content/items/mods/scopes/scope_base_trijicon_acog_ta01nsn_4x32_mark",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/scopes/scope_base_trijicon_mro.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/systems/effects/opticsight/opticsightsmasks.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/scopes/scope_base_trijicon_sro.bundle",
       "dependencyKeys": [
         "assets/systems/effects/opticsight/opticsightsmasks.bundle",
@@ -5038,6 +5893,22 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
         "assets/content/textures/holemanager/round_spec_mask.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/sights front/sight_front_all_dd_ar15_fixed_sight.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/sights front/sight_front_all_howa_type20_std.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -5066,6 +5937,22 @@
     },
     {
       "key": "assets/content/items/mods/sights rear/sight_rear_all_arms_40_flip_up_sight.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/sights rear/sight_rear_all_dd_ar15_fixed_sight.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/sights rear/sight_rear_all_howa_type20_std.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders",
@@ -5113,12 +6000,47 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/sights rear/sight_rear_qbz191_norinco_191_folding_sight.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/silencers/silencer_ae_allen_engineering_aem_5_556x45.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "assets/systems/effects/smoke.bundle",
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/silencers/silencer_base_bt_print_x_type20_556x45.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/systems/effects/smoke.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/silencers/silencer_base_huxwrx_hxqd_762_762x51.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/systems/effects/smoke.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/silencers/silencer_base_huxwrx_hxqd_762_762x51_tan.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle"
       ]
     },
     {
@@ -5149,6 +6071,33 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/silencers/silencer_pk_hexagon_dtkp_pkm_762x54.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/systems/effects/smoke.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/silencers/silencer_pkp_hexagon_dtkp_pkp_qd_762x54.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/silencers/silencer_qbz191_norinco_vqx191_58x42.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/systems/effects/smoke.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/silencers/silencer_val_mod4_nb_mod4_std_9x39.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -5159,6 +6108,14 @@
     },
     {
       "key": "assets/content/items/mods/stocks/stock_ak_armacon_monolit_3_gen2_champ.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ak_armacon_monolit_5.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders",
@@ -5195,6 +6152,22 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "shaders",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ar15_caa_sbs.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ar15_caa_sbs_kt.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -5252,6 +6225,14 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/stocks/stock_ar15_hk_slim_line_ral8k.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/stocks/stock_ar15_john_masen_n1_recoil_pad.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -5285,6 +6266,14 @@
     },
     {
       "key": "assets/content/items/mods/stocks/stock_ar15_lead_star_arms_ravage_ylw.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ar15_lmt_sopmod_fde.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders",
@@ -5406,6 +6395,30 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/stocks/stock_pk_front_zveno_stock_adapter.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_qbz191_norinco_191_stock_std.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_qbz191_norinco_191_stock_tube_std.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/stocks/stock_rpd_ds_arms_rpd_lower_frame.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -5422,10 +6435,26 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/stocks/stock_type20_howa_type20_std.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/stocks/stock_ucs_magpul_ucs_buttstock_cheek.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ump_hogue_ar15_stock_adapter.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -5451,6 +6480,18 @@
         "assets/systems/effects/collimator.bundle",
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
+        "assets/content/textures/holemanager/glow_particle_bright.bundle",
+        "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/tactical/tactical_all_l3harris_ngal.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/laserbeam/laser.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/systems/effects/collimator.bundle",
         "assets/content/textures/holemanager/glow_particle_bright.bundle",
         "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle"
       ]
@@ -5566,6 +6607,13 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
         "assets/content/items/spec/keys/item_key_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/quest/item_quest_letter/letter_assets.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -5738,6 +6786,14 @@
       ]
     },
     {
+      "key": "assets/content/items/spec/item_spec_ipcamera/item_spec_ipcamera.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/spec/item_spec_irbeacon/item_spec_irbeacon.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
@@ -5805,6 +6861,14 @@
       ]
     },
     {
+      "key": "assets/content/items/spec/keys/item_key_assets.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders",
+        "assets/content/items/spec/keys/keys_textures.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/spec/keys/item_key_quest_lyzhnik_friend.bundle",
       "dependencyKeys": [
         "shaders",
@@ -5820,6 +6884,13 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "assets/content/items/spec/keys/keys_textures.bundle",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/spec/keys/keys_textures.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
       ]
     },
     {
@@ -5979,6 +7050,10 @@
       ]
     },
     {
+      "key": "assets/content/textures/holemanager/glow_particle_bright.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/weapons/adar_2-15/weapon_adar_2-15_556x45_container.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -6045,6 +7120,62 @@
         "assets/content/weapons/weapon_root_anim_fix.bundle",
         "assets/content/weapons/additional_hands/client_assets.bundle",
         "assets/content/audio/blendoptions/assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/jagdkommando/client_assets.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/jagdkommando/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/jagdkommando/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/weapons/jagdkommando/weapon_microtech_jagdkommando_container.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/weapons/knife_bayonet.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/jagdkommando/client_assets.bundle",
+        "assets/content/weapons/jagdkommando/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/kabar/client_assets.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "assets/content/weapons/kabar/textures/client_assets.bundle",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/kabar/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/weapons/kabar/weapon_kabar_usmc_fighter_container.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/kabar/client_assets.bundle",
+        "assets/content/weapons/kabar/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/audio/weapons/knife_bayonet.bundle",
+        "assets/content/audio/weapons/generic",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle"
       ]
     },
     {
@@ -6287,6 +7418,109 @@
       "dependencyKeys": []
     },
     {
+      "key": "assets/content/weapons/usable_items/item_canned_food/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_filterbottle/client_assets.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_filterbottle/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_filterbottle/item_drink_water_skeleton_container.bundle",
+      "dependencyKeys": [
+        "assets/content/audio/weapons/usable_items/item_filterbottle.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/prefabs/muzzleflash_base.bundle",
+        "assets/content/weapons/usable_items/item_filterbottle/item_filterbottle_container.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/weapons/usable_items/item_filterbottle/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_filterbottle/item_drink_water_skeleton_loot.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_filterbottle/client_assets.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_filterbottle/item_filterbottle_container.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/usable_items/item_filterbottle/client_assets.bundle",
+        "assets/content/audio/weapons/usable_items/item_filterbottle.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/prefabs/muzzleflash_base.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/usable_items/item_filterbottle/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_filterbottle/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_baguette/client_assets.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_baguette/textures/client_assets.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_baguette/item_food_baguette_container.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_baguette/client_assets.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/usable_items/item_food_baguette/textures/client_assets.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/prefabs/muzzleflash_base.bundle",
+        "assets/content/weapons/usable_items/item_food_sausage/client_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_baguette/item_food_baguette_loot.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_baguette/client_assets.bundle",
+        "assets/content/weapons/usable_items/item_food_baguette/textures/client_assets.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_baguette/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_beefstew/client_assets.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_beefstew/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/weapons/usable_items/item_food_beefstew/textures/client_assets.bundle",
       "dependencyKeys": []
     },
@@ -6298,6 +7532,48 @@
         "shaders",
         "assets/content/weapons/usable_items/item_food_beefstew/textures/client_assets.bundle"
       ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_gigabeef/client_assets.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_gigabeef/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/content/weapons/usable_items/item_canned_food/textures/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_gigabeef/item_food_gigabeef_container.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/usable_items/item_food_gigabeef/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/content/weapons/usable_items/item_food_gigabeef/client_assets.bundle",
+        "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/usable_items/item_canned_food/textures/client_assets.bundle",
+        "assets/content/audio/weapons/usable_items/item_foodcan.bundle",
+        "assets/systems/effects/heathaze/defaultheathaze.bundle",
+        "assets/content/prefabs/muzzleflash_base.bundle",
+        "assets/content/weapons/usable_items/item_food_beefstew/client_assets.bundle",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "assets/content/weapons/animations/simple_animations.bundle",
+        "assets/content/weapons/animations/spirit_animations.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_gigabeef/item_food_gigabeef_loot.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/weapons/usable_items/item_food_gigabeef/textures/client_assets.bundle",
+        "cubemaps",
+        "shaders",
+        "assets/content/weapons/usable_items/item_food_gigabeef/client_assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_gigabeef/textures/client_assets.bundle",
+      "dependencyKeys": []
     },
     {
       "key": "assets/content/weapons/usable_items/item_food_pate/client_assets.bundle",
@@ -6355,6 +7631,18 @@
         "assets/content/prefabs/muzzleflash_base.bundle",
         "assets/systems/effects/muzzleflash/muzzleflash.bundle"
       ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_sausage/client_assets.bundle",
+      "dependencyKeys": [
+        "assets/content/weapons/usable_items/item_food_sausage/textures/client_assets.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/usable_items/item_food_sausage/textures/client_assets.bundle",
+      "dependencyKeys": []
     },
     {
       "key": "assets/content/weapons/usable_items/item_recorder/client_assets.bundle",
@@ -6436,6 +7724,10 @@
       ]
     },
     {
+      "key": "cubemaps",
+      "dependencyKeys": []
+    },
+    {
       "key": "fphands/top_civilian_port_jacket_lod0_hands.bundle",
       "dependencyKeys": [
         "shaders"
@@ -6512,6 +7804,10 @@
       "dependencyKeys": [
         "shaders"
       ]
+    },
+    {
+      "key": "shaders",
+      "dependencyKeys": []
     }
   ]
 }

@@ -1,24 +1,9 @@
-﻿using HarmonyLib.Tools;
-using Microsoft.AspNetCore.Razor.TagHelpers;
+﻿using System.Reflection;
 using SPTarkov.Common.Models.Logging;
 using SPTarkov.DI.Annotations;
 using SPTarkov.Server.Core.DI;
-using SPTarkov.Server.Core.Helpers;
-using SPTarkov.Server.Core.Helpers.Items;
-using SPTarkov.Server.Core.Models.Spt.Config;
 using SPTarkov.Server.Core.Models.Spt.Mod;
-using SPTarkov.Server.Core.Models.Utils;
-using SPTarkov.Server.Core.Servers;
-using SPTarkov.Server.Core.Services;
-using SPTarkov.Server.Core.Services.Image;
-using SPTarkov.Server.Core.Services.Locales;
-using SPTarkov.Server.Core.Utils;
-using System.Collections.Generic;
-using System.Reflection;
-using System.Threading.Tasks;
 using WTTContentBackport.Helpers;
-using WTTContentBackport.Patches;
-using WTTServerCommonLib.Models;
 using Range = SemanticVersioning.Range;
 
 namespace WTTContentBackport;
@@ -29,13 +14,12 @@ public record ModMetadata : IModMetadata
     public string Name { get; init; } = "WTT-ContentBackport";
     public string Author { get; init; } = "GrooveypenguinX";
     public List<string>? Contributors { get; init; } = null;
-    public SemanticVersioning.Version Version { get; init; } = new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
+    public SemanticVersioning.Version Version { get; init; } =
+        new(typeof(ModMetadata).Assembly.GetName().Version?.ToString(3));
     public Range SptVersion { get; init; } = new("~4.1.1");
     public List<string>? Incompatibilities { get; init; }
-    public Dictionary<string, Range>? ModDependencies { get; init; } = new()
-    {
-        { "com.wtt.commonlib", new Range("~3.0.2") }
-    };
+    public Dictionary<string, Range>? ModDependencies { get; init; } =
+        new() { { "com.wtt.commonlib", new Range("~3.0.2") } };
     public string? Url { get; init; }
     public string License { get; init; } = "MIT";
 
@@ -47,7 +31,8 @@ public class WTTContentBackport(
     WTTServerCommonLib.WTTServerCommonLib wttCommon,
     BackportQuestHelper backportQuestHelper,
     BackportJunkDisabler backportJunkDisabler,
-    ISptLogger<WTTContentBackport> logger) : IOnLoad
+    ISptLogger<WTTContentBackport> logger
+) : IOnLoad
 {
     public async Task OnLoadAsync(CancellationToken cancellationToken)
     {
