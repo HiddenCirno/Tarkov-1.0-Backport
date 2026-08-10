@@ -21,9 +21,15 @@
             "68f0f60a121d878a2303eedb",
             "68fb41120760c7891606613c",
             "68f15e26f1aa7e100a0ca208",
-            "68f153aa7da590b6df0515da"
+            "68f153aa7da590b6df0515da",
+            "6a354a30652075cf460944c6",
+            "6a354a9a9cd7a91b45027a89",
+            "6a354abe73339990030ca469",
+            "6a354aa56632508bd10476dc",
+            "6a3549435288a3fe6e085224"
+
         };
-        public static readonly List<MongoId> _usecDogtags = new()
+    public static readonly List<MongoId> _usecDogtags = new()
         {
             "68df99c05d4e135b130392cc",
             "68df99a614ca2428b2017cd8",
@@ -35,10 +41,16 @@
             "68f0f662859ebec8d501b76a",
             "68fb4143a854bc7ae80fad3e",
             "68f15e53103c5d9d4f022c78",
-            "5b9b9020e7ef6f5716480215"
+            "5b9b9020e7ef6f5716480215",
+            "6a354a077e4ccdbe95005266",
+            "6a354a6240e6797a930312e5",
+            "6a354a7e6632508bd10476d8",
+            "6a354a6f8d465a55c70065c8",
+            "6a3548e72a963bcdd8098649"
+
         };
 
-        private readonly List<MongoId> _itemsToBlacklist = new()
+    private readonly List<MongoId> _itemsToBlacklist = new()
         {
         "68f117b8121d878a2303eee0", // LP Gamma
         "68f8e04eae031982b00e7aaf", // Battle Worn Gamma
